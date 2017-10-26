@@ -74,7 +74,7 @@
     .about-name { margin-top: 15px }
 }
 @media screen and (max-width: 991px) { 
-    .logo { margin: 25px 0 }
+    .logo { margin: 18px 0 }
     .dl-trigger { display: block }
     .dl-menuwrapper {
         width: 100%;
