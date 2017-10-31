@@ -1,4 +1,4 @@
-@import "bootstrap.min.css";
+@import "bs4/bootstrap.min.css";
 @import "font-awesome.min.css";
 @import "animate.min.css";
 @import "fontello.css";
@@ -632,7 +632,7 @@
     border: 0;
 }
 body {
-    background: #fff url(../img/first_aid_kit.png) fixed;
+    /*background: #fff url(../img/first_aid_kit.png) fixed;*/
 }
 #wrapper {
     margin: 0 auto;
