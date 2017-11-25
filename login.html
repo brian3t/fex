@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>PRESSA - HTML5 Website Template</title>
+	<title>Freight Expedia - The Expedia for freight</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -284,7 +284,7 @@
 				<div class="general_wrapper clearfix">
 				<div class="col-lg-6 col-md-6 col-sm-12">
                 	<div class="widget-title">
-                    	<h3>Login Form</h3>
+                    	<h3>Login</h3>
                     </div>
                 	<form id="loginform" method="post" name="loginform" action="">
 						<div class="form-group">
@@ -314,14 +314,11 @@
                 
 				<div class="col-lg-6 col-md-6 col-sm-12">
                 	<div class="widget-title">
-                    	<h3>Register Form</h3>
+                    	<h3>Register for free</h3>
                     </div>
                 	<form id="registerform" method="post" name="registerform" action="">
 						<div class="form-group">
-							<input type="text" class="form-control" placeholder="First name">
-						</div>
-						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Last name">
+							<input type="text" name="name" class="form-control" placeholder="Name">
 						</div>
 						<div class="form-group">
 							<input type="email" class="form-control" placeholder="Email">
@@ -333,7 +330,7 @@
 							<input type="text" class="form-control" placeholder="Re-enter password">
 						</div>
 						<div class="form-group">
-							<input type="submit" class="btn btn-primary" value="Register an account">
+							<input type="button" onclick="sendmail(this)" class="btn btn-primary" value="Register">
 						</div>
 					</form>
 				</div><!-- end register -->              

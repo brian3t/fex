@@ -115,7 +115,7 @@ function parallaxInit() {
 		},
 		itemTemplate: '<li><a href="{{image_b}}"><img alt="{{title}}" src="{{image_s}}" /></a></li>'
 		});
-	})
+	});
 
 // Rotate Text
 	$(".rotate").textrotator({
@@ -132,3 +132,7 @@ function parallaxInit() {
 	});
 
  })(jQuery);
+
+function sendmail(element) {
+	//find form and send mail to usv
+}
