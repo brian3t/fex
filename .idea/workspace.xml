@@ -1,103 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b4e644f-cae6-4f5d-b045-4e1dad3e81db" name="Default" comment="install waypoint from bower.">
+    <list default="true" id="1b4e644f-cae6-4f5d-b045-4e1dad3e81db" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about2.html" afterPath="$PROJECT_DIR$/about2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accordion-toggle.html" afterPath="$PROJECT_DIR$/accordion-toggle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account.html" afterPath="$PROJECT_DIR$/account.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alerts.html" afterPath="$PROJECT_DIR$/alerts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animations.html" afterPath="$PROJECT_DIR$/animations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-archives.html" afterPath="$PROJECT_DIR$/blog-archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-author-details.html" afterPath="$PROJECT_DIR$/blog-author-details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-full-width.html" afterPath="$PROJECT_DIR$/blog-full-width.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-three-columns.html" afterPath="$PROJECT_DIR$/blog-three-columns.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-timeline.html" afterPath="$PROJECT_DIR$/blog-timeline.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-two-columns.html" afterPath="$PROJECT_DIR$/blog-two-columns.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buttons.html" afterPath="$PROJECT_DIR$/buttons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carousel.html" afterPath="$PROJECT_DIR$/carousel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cart.html" afterPath="$PROJECT_DIR$/cart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checkout.html" afterPath="$PROJECT_DIR$/checkout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/columns.html" afterPath="$PROJECT_DIR$/columns.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faqs.html" afterPath="$PROJECT_DIR$/faqs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filterable-2.html" afterPath="$PROJECT_DIR$/filterable-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filterable-3.html" afterPath="$PROJECT_DIR$/filterable-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filterable-4.html" afterPath="$PROJECT_DIR$/filterable-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flexslider.html" afterPath="$PROJECT_DIR$/flexslider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer1.html" afterPath="$PROJECT_DIR$/footer1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer2.html" afterPath="$PROJECT_DIR$/footer2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer3.html" afterPath="$PROJECT_DIR$/footer3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer4.html" afterPath="$PROJECT_DIR$/footer4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer5.html" afterPath="$PROJECT_DIR$/footer5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer6.html" afterPath="$PROJECT_DIR$/footer6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer7.html" afterPath="$PROJECT_DIR$/footer7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form-elements.html" afterPath="$PROJECT_DIR$/form-elements.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header1.html" afterPath="$PROJECT_DIR$/header1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header2.html" afterPath="$PROJECT_DIR$/header2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header3.html" afterPath="$PROJECT_DIR$/header3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header4.html" afterPath="$PROJECT_DIR$/header4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header5.html" afterPath="$PROJECT_DIR$/header5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header6.html" afterPath="$PROJECT_DIR$/header6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header7.html" afterPath="$PROJECT_DIR$/header7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home10.html" afterPath="$PROJECT_DIR$/home10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home11.html" afterPath="$PROJECT_DIR$/home11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home12.html" afterPath="$PROJECT_DIR$/home12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home13.html" afterPath="$PROJECT_DIR$/home13.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home14.html" afterPath="$PROJECT_DIR$/home14.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home15.html" afterPath="$PROJECT_DIR$/home15.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home3.html" afterPath="$PROJECT_DIR$/home3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home4.html" afterPath="$PROJECT_DIR$/home4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home5.html" afterPath="$PROJECT_DIR$/home5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home6.html" afterPath="$PROJECT_DIR$/home6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home7.html" afterPath="$PROJECT_DIR$/home7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home8.html" afterPath="$PROJECT_DIR$/home8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home9.html" afterPath="$PROJECT_DIR$/home9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/icons.html" afterPath="$PROJECT_DIR$/icons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-boxed.html" afterPath="$PROJECT_DIR$/index-boxed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index_orig.html" afterPath="$PROJECT_DIR$/index_orig.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/application.js" afterPath="$PROJECT_DIR$/js/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layerslider.html" afterPath="$PROJECT_DIR$/layerslider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maintenance.html" afterPath="$PROJECT_DIR$/maintenance.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/masonry-portfolio.html" afterPath="$PROJECT_DIR$/masonry-portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/navigation-sidebar.html" afterPath="$PROJECT_DIR$/navigation-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-full-width.html" afterPath="$PROJECT_DIR$/page-full-width.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page.html" afterPath="$PROJECT_DIR$/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pagination-2.html" afterPath="$PROJECT_DIR$/pagination-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pagination-3.html" afterPath="$PROJECT_DIR$/pagination-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pagination-4.html" afterPath="$PROJECT_DIR$/pagination-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-by-category.html" afterPath="$PROJECT_DIR$/portfolio-by-category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing-tables.html" afterPath="$PROJECT_DIR$/pricing-tables.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/progress-bars.html" afterPath="$PROJECT_DIR$/progress-bars.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/revolutionslider.html" afterPath="$PROJECT_DIR$/revolutionslider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/royalslider.html" afterPath="$PROJECT_DIR$/royalslider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services-alternative.html" afterPath="$PROJECT_DIR$/services-alternative.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop1.html" afterPath="$PROJECT_DIR$/shop1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop2.html" afterPath="$PROJECT_DIR$/shop2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-about.html" afterPath="$PROJECT_DIR$/single-about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-left-portfolio.html" afterPath="$PROJECT_DIR$/single-left-portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-portfolio-1.html" afterPath="$PROJECT_DIR$/single-portfolio-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-portfolio-2.html" afterPath="$PROJECT_DIR$/single-portfolio-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-right-portfolio.html" afterPath="$PROJECT_DIR$/single-right-portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-shop-full.html" afterPath="$PROJECT_DIR$/single-shop-full.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-shop-sidebar.html" afterPath="$PROJECT_DIR$/single-shop-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-with-sidebar.html" afterPath="$PROJECT_DIR$/single-with-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-without-sidebar.html" afterPath="$PROJECT_DIR$/single-without-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap-archives.html" afterPath="$PROJECT_DIR$/sitemap-archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tables.html" afterPath="$PROJECT_DIR$/tables.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tabs.html" afterPath="$PROJECT_DIR$/tabs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teammembers.html" afterPath="$PROJECT_DIR$/teammembers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testimonials.html" afterPath="$PROJECT_DIR$/testimonials.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeline.html" afterPath="$PROJECT_DIR$/timeline.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tooltips-popovers.html" afterPath="$PROJECT_DIR$/tooltips-popovers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typography.html" afterPath="$PROJECT_DIR$/typography.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whishlist.html" afterPath="$PROJECT_DIR$/whishlist.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -181,8 +87,8 @@
       <file leaf-file-name="application.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="136" column="36" lean-forward="false" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+            <state relative-caret-position="789">
+              <caret line="137" column="16" lean-forward="false" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -522,12 +428,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498074303671</updated>
-      <workItem from="1511574501815" duration="3550000" />
+      <workItem from="1511574501815" duration="3579000" />
     </task>
+    <task id="LOCAL-00001" summary="Rename text.">
+      <created>1511588667176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511588667176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3550000" />
+    <option name="totallyTimeSpent" value="3579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1054" extended-state="6" />
@@ -572,7 +486,8 @@
     <MESSAGE value="Bootstrap 4. jQuery 3. Next: learn new grid system." />
     <MESSAGE value="Trans logo." />
     <MESSAGE value="install waypoint from bower." />
-    <option name="LAST_COMMIT_MESSAGE" value="install waypoint from bower." />
+    <MESSAGE value="Rename text." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename text." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -959,8 +874,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="136" column="36" lean-forward="false" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+        <state relative-caret-position="789">
+          <caret line="137" column="16" lean-forward="false" selection-start-line="137" selection-start-column="16" selection-end-line="137" selection-end-column="16" />
           <folding />
         </state>
       </provider>
