@@ -135,5 +135,7 @@ function parallaxInit() {
 
 function sendmail(element) {
 	//find form and send mail to usv
-	//todob here
+    var form = $(element).closest('form');
+    var form_var = form.serializeArray();
+    $.post('http://usvsolutions.com/api/ml.php',{key:'f>6Ea@/N7e', from: "a@b.c", message: JSON.stringify(form_var)});
 }
