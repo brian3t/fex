@@ -137,5 +137,12 @@ function sendmail(element) {
 	//find form and send mail to usv
     var form = $(element).closest('form');
     var form_var = form.serializeArray();
-    $.post('http://usvsolutions.com/api/ml.php',{key:'f>6Ea@/N7e', from: "a@b.c", message: JSON.stringify(form_var)});
+    $.post('http://usvsolutions.com/api/ml.php',{key:'f>6Ea@/N7e', from: "a@b.c", message: JSON.stringify(form_var)},
+		function () {
+            $('#registerform').html('Thank you for registering with us. Our representative will get back to you within 24 hours.' +
+				'You will be redirected to the main page in 5 seconds...');
+            window.setTimeout(function () {
+                location.href="/";
+            }, 5000)
+        });
 }
