@@ -2666,3 +2666,9 @@ hr.dm2:after {
 #title {
     padding-bottom: 5px;
 }
+#logo{
+    height: 62px;
+}
+.white_space_pre_line p{
+    white-space: pre-line;
+}
