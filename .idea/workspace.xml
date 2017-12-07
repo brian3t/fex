@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b4e644f-cae6-4f5d-b045-4e1dad3e81db" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/tn423731.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/career.html" afterPath="$PROJECT_DIR$/career.html" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
-      <change beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +17,8 @@
       <file leaf-file-name="career.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/career.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="282" column="84" lean-forward="true" selection-start-line="282" selection-start-column="84" selection-end-line="282" selection-end-column="84" />
+            <state relative-caret-position="325">
+              <caret line="187" column="51" lean-forward="true" selection-start-line="187" selection-start-column="51" selection-end-line="187" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -64,9 +60,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>home</find>
-      <find>text</find>
-      <find>rotator.js</find>
       <find>syntaxhighlighter</find>
       <find>SyntaxHighlighter</find>
       <find>soundclo</find>
@@ -94,6 +87,9 @@
       <find>white_sp</find>
       <find>Instacart</find>
       <find>vsco</find>
+      <find>quote</find>
+      <find>12</find>
+      <find>feb</find>
     </findStrings>
     <replaceStrings>
       <replace>vestchallenge.com</replace>
@@ -460,7 +456,8 @@
     <MESSAGE value="Rename text." />
     <MESSAGE value="Login page done. Next moving down." />
     <MESSAGE value="Career page: remove calendar icon, recent, popular." />
-    <option name="LAST_COMMIT_MESSAGE" value="Career page: remove calendar icon, recent, popular." />
+    <MESSAGE value="Career page: done, need revising." />
+    <option name="LAST_COMMIT_MESSAGE" value="Career page: done, need revising." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1075,8 +1072,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/career.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="282" column="84" lean-forward="true" selection-start-line="282" selection-start-column="84" selection-end-line="282" selection-end-column="84" />
+        <state relative-caret-position="325">
+          <caret line="187" column="51" lean-forward="true" selection-start-line="187" selection-start-column="51" selection-end-line="187" selection-end-column="51" />
           <folding />
         </state>
       </provider>
