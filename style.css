@@ -4,7 +4,7 @@
 	Template Name: Pressa
 	Created By: Filiz OZER
 	http://themeforest.net/user/designingmedia
-	
+
 	1) GENERAL STRUCTURES
 	2) SITE STRUCTURES
 	3) HEADER STYLES
@@ -59,9 +59,15 @@ img {
     height: auto;
     max-width: 100%;
 }
-.hidden { display: none; }
-.alignleft { float: left; }
-.alignright { float: right; }
+.hidden {
+    display: none;
+}
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
 .aligncenter {
     margin-left: auto;
     margin-right: auto;
@@ -160,13 +166,17 @@ blockquote,
 address,
 table,
 fieldset,
-form { margin-bottom: 20px; }
+form {
+    margin-bottom: 20px;
+}
 a img {
     border: none;
 }
 ul,
 ol,
-dl { margin-left: 30px; }
+dl {
+    margin-left: 30px;
+}
 ul,
 ol,
 dl {
@@ -208,8 +218,12 @@ section::after {
     content: '';
     pointer-post-wraps: none;
 }
-.first { clear: both }
-.last { margin-right: 0 }
+.first {
+    clear: both
+}
+.last {
+    margin-right: 0
+}
 audio,
 video {
     max-width: 100%;
@@ -395,8 +409,12 @@ object {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     background: #ffffff;
 }
-.navbar { margin-bottom: 0; }
-.navbar-collapse { padding: 0 0 0 15px }
+.navbar {
+    margin-bottom: 0;
+}
+.navbar-collapse {
+    padding: 0 0 0 15px
+}
 .dropdown-menu {
     position: absolute;
     top: 100%;
@@ -432,7 +450,9 @@ object {
     color: #656565;
     background-color: #f5f5f5;
 }
-.navbar-nav > li > .dropdown-menu { margin-top: 3px }
+.navbar-nav > li > .dropdown-menu {
+    margin-top: 3px
+}
 .searchicon {
     color: #237DAC;
     z-index: 90;
@@ -671,6 +691,11 @@ body#boxed {
     max-width: 1030px;
     background: url(images/port.jpg) center center no-repeat;
 }
+@media (max-width: 1200px) {
+    .dm_featured_box_bg {
+        background: none;
+    }
+}
 .dm_featured_box {
     float: left;
     text-align: right;
@@ -860,7 +885,9 @@ body#boxed {
 .section-footer .widget-title hr {
     margin: 0 0 15px;
 }
-.section-footer .widget { margin: 15px 0; }
+.section-footer .widget {
+    margin: 15px 0;
+}
 .widget-title hr {
     border: 0 none;
     height: 2px;
@@ -1139,8 +1166,12 @@ body#boxed {
 .portfolio_wrapper .item {
     margin-top: 30px
 }
-.masonry .item { margin: 0 !important }
-.shop_item .b-link-flow .b-wrapper, .b-link-flow .b-top-line { background-color: rgba(0, 0, 0, 0.4) !important }
+.masonry .item {
+    margin: 0 !important
+}
+.shop_item .b-link-flow .b-wrapper, .b-link-flow .b-top-line {
+    background-color: rgba(0, 0, 0, 0.4) !important
+}
 .shop_item .icon-view,
 .shop_item .icon-link {
     margin-top: 41% !important;
@@ -1174,11 +1205,33 @@ body#boxed {
     filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
     border-color: #2a2a2a;
 }
-.portfolio_wrapper p { margin-top: 0 !important; }
-.shop_item .icon-left { bottom: 20px; left: 20px; position: absolute; font-style: italic; }
-.shop_item .icon-right { bottom: 20px; right: 20px; position: absolute; font-style: italic; }
-.portfolio_wrapper .icon-left { bottom: 20px; left: 20px; position: absolute; font-style: italic; }
-.portfolio_wrapper .icon-right { bottom: 20px; right: 20px; position: absolute; font-style: italic; }
+.portfolio_wrapper p {
+    margin-top: 0 !important;
+}
+.shop_item .icon-left {
+    bottom: 20px;
+    left: 20px;
+    position: absolute;
+    font-style: italic;
+}
+.shop_item .icon-right {
+    bottom: 20px;
+    right: 20px;
+    position: absolute;
+    font-style: italic;
+}
+.portfolio_wrapper .icon-left {
+    bottom: 20px;
+    left: 20px;
+    position: absolute;
+    font-style: italic;
+}
+.portfolio_wrapper .icon-right {
+    bottom: 20px;
+    right: 20px;
+    position: absolute;
+    font-style: italic;
+}
 .isotope-item {
     z-index: 2;
 }
@@ -1248,11 +1301,25 @@ body#boxed {
     -o-transition-duration: 0s;
     transition-duration: 0s;
 }
-div.thumbnails { padding-top: 10px; zoom: 1 }
-div.thumbnails a { float: left; width: 30.75%; margin-right: 3.8% }
-div.thumbnails a img { width: 100%; height: auto }
-div.thumbnails a.last { margin-right: 0 }
-div.thumbnails a.first { clear: both }
+div.thumbnails {
+    padding-top: 10px;
+    zoom: 1
+}
+div.thumbnails a {
+    float: left;
+    width: 30.75%;
+    margin-right: 3.8%
+}
+div.thumbnails a img {
+    width: 100%;
+    height: auto
+}
+div.thumbnails a.last {
+    margin-right: 0
+}
+div.thumbnails a.first {
+    clear: both
+}
 .shop-right .amount {
     position: relative;
     right: 20px;
@@ -1350,7 +1417,9 @@ div.thumbnails a.first { clear: both }
     position: absolute;
     top: 50px;
     font-size: 600%;
-    opacity: 0.2; -moz-opacity: 0.2; filter: alpha(opacity=20);
+    opacity: 0.2;
+    -moz-opacity: 0.2;
+    filter: alpha(opacity=20);
 }
 .quote-post blockquote {
     border-left: 0px solid #fff;
@@ -1732,7 +1801,9 @@ div.thumbnails a.first { clear: both }
     margin-bottom: 0;
     padding-bottom: 0;
 }
-.blog-tt-columns .blog-wrap h2 { font-size: 18px; }
+.blog-tt-columns .blog-wrap h2 {
+    font-size: 18px;
+}
 .blog-wrap p {
     margin: 10px 0 15px;
 }
@@ -1769,18 +1840,25 @@ div.thumbnails a.first { clear: both }
     padding-top: 5px;
     margin-top: 5px;
 }
-#comments_wrapper { margin: 60px 0 }
-.reviews .comment-list { margin: 20px 0 40px }
+#comments_wrapper {
+    margin: 60px 0
+}
+.reviews .comment-list {
+    margin: 20px 0 40px
+}
 .comment-list {
     margin: 60px 0;
     list-style: none;
 }
 .comment-list ul li,
-.comment-list ol li { list-style: none; }
+.comment-list ol li {
+    list-style: none;
+}
 .comment-avatar {
     margin: 0 20px 0 0;
     float: left;
-    height: 70px; width: 70px;
+    height: 70px;
+    width: 70px;
 }
 .comment-content {
     background: #f5f5f5;
@@ -1970,7 +2048,9 @@ a.readmore {
     position: absolute;
     bottom: 30px;
     font-size: 200%;
-    opacity: 0.1; -moz-opacity: 0.1; filter: alpha(opacity=10);
+    opacity: 0.1;
+    -moz-opacity: 0.1;
+    filter: alpha(opacity=10);
 }
 .testimonials h4 {
     font-size: 14px;
@@ -2666,9 +2746,9 @@ hr.dm2:after {
 #title {
     padding-bottom: 5px;
 }
-#logo{
+#logo {
     height: 62px;
 }
-.white_space_pre_line p{
+.white_space_pre_line p {
     white-space: pre-line;
 }
